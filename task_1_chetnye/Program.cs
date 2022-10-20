@@ -10,7 +10,7 @@ int [] massiv = new int [L];
 Random rand = new Random();
 for (int i = 0; i < L; i++)
 {
-   massiv [i] = rand.Next(100,1000);
+   massiv [i] = rand.Next(99,1000);
    System.Console.Write(massiv[i]+", ");
 }
 int count = 0;
