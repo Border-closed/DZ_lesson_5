@@ -1,0 +1,15 @@
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/bin/Debug/net6.0/task_1_chetnye
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/bin/Debug/net6.0/task_1_chetnye.deps.json
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/bin/Debug/net6.0/task_1_chetnye.runtimeconfig.json
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/bin/Debug/net6.0/task_1_chetnye.dll
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/bin/Debug/net6.0/task_1_chetnye.pdb
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/task_1_chetnye.csproj.AssemblyReference.cache
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/task_1_chetnye.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/task_1_chetnye.AssemblyInfoInputs.cache
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/task_1_chetnye.AssemblyInfo.cs
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/task_1_chetnye.csproj.CoreCompileInputs.cache
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/task_1_chetnye.dll
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/refint/task_1_chetnye.dll
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/task_1_chetnye.pdb
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/task_1_chetnye.genruntimeconfig.cache
+/Users/samisusami/Desktop/DZ_5/task_1_chetnye/obj/Debug/net6.0/ref/task_1_chetnye.dll
