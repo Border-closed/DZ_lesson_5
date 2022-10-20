@@ -1,0 +1,15 @@
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/task_3_sammaMaxMin.csproj.AssemblyReference.cache
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/task_3_sammaMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/task_3_sammaMaxMin.AssemblyInfoInputs.cache
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/task_3_sammaMaxMin.AssemblyInfo.cs
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/task_3_sammaMaxMin.csproj.CoreCompileInputs.cache
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/bin/Debug/net6.0/task_3_sammaMaxMin
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/bin/Debug/net6.0/task_3_sammaMaxMin.deps.json
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/bin/Debug/net6.0/task_3_sammaMaxMin.runtimeconfig.json
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/bin/Debug/net6.0/task_3_sammaMaxMin.dll
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/bin/Debug/net6.0/task_3_sammaMaxMin.pdb
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/task_3_sammaMaxMin.dll
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/refint/task_3_sammaMaxMin.dll
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/task_3_sammaMaxMin.pdb
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/task_3_sammaMaxMin.genruntimeconfig.cache
+/Users/samisusami/Desktop/DZ_5/task_3_sammaMaxMin/obj/Debug/net6.0/ref/task_3_sammaMaxMin.dll
